@@ -1,4 +1,5 @@
 name : this is github action
+run-name: this is the run name
 on: [push]
 jobs: 
     Echo: 
